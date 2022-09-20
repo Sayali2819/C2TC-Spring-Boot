@@ -1,0 +1,33 @@
+.container
+{
+	text-align: center;
+	margin: auto;
+	width: 60%;
+}
+.img
+{
+	width: 150px;
+}
+h1
+{	
+	font-size: 3.5rem;
+	font-family: "canbria", cursive;
+}
+p
+{	
+	font-size: 2rem;
+	font-family: "canbria", cursive;
+}
+.player
+{
+	text-align: center;
+	display: inline-block;
+}
+#dice
+{
+	padding-right:30px;
+}
+body
+{
+	background: yellow;
+}
